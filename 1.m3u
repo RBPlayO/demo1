@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Инфоканал" , Инфоканал RB Play
 https://www.dropbox.com/scl/fi/55npafe13atk6104ihjce/RB-PLAY.mp4?rlkey=yg19zddene0b47gg6ykqzhwjd&st=7g3knlwt&dl=1
+#EXTINF:-1 group-title="Казахстанские" ,24 KZ HD
+https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,Astana TV
 https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,31 Канал
