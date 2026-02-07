@@ -353,8 +353,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/5522.png" ,НТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/2201.png" ,НТВ HD
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/9830.png" ,НТВ Стиль
 https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
 #EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/408.png" ,НТВ Сериал
@@ -473,8 +471,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7557.png" ,СТС (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/5580.png" ,СТС HD
-http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1106.png" ,СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1010.png" ,МИР
